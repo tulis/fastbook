@@ -17,3 +17,4 @@ jobs:
           owner: fastai
           base: master
           head: master
+          merge_method: rebase
